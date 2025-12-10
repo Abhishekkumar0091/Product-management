@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main 
 {
-public static void main(String[] args) 
+public static void main(String[] args)
 	{
 //	data ko memory main manage karne ka lya dow ka use kare ge to main ka pass dao ka class ka object ka refrance hona cahya
 //	iss lya ham yaha dao clss ka object ka refrance banye ga
@@ -58,3 +58,4 @@ public static void main(String[] args)
 	}while(true);
 	}
 }
+
